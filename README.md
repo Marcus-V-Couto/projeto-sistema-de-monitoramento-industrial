@@ -1,1 +1,1 @@
-# project-factory-monitoring-system
+# projeto-sistema-de-monitoramento-industrial
