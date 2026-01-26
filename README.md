@@ -26,5 +26,3 @@ Em desenvolvimento.
 - PostgreSQL para armazenamento de dados.
 - Excel para análise adicional e geração de relatórios.
 - Power BI para visualização de dados e criação de dashboards.
-=======
->>>>>>> 1a256e3f464adda14a19552f95e8992de0d6903c
