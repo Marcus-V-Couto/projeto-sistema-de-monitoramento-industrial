@@ -1,4 +1,5 @@
 # projeto-sistema-de-monitoramento-industrial
+
 <<<<<<< HEAD
 
 Projeto de simulação de monitoramento de indicadores industriais utilizando PostgreSQL, Python, Excel e Power BI.
